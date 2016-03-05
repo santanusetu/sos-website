@@ -4,12 +4,17 @@ Website for SOS Corporation
 
 The website looks similar to this :
 
-![screenshots](/sos1.png)
+Screenshot of the website #1:
 
-![screenshots](/sos2.png)
+![ScreenShot](/screenshots/sos1.png)
 
-![screenshots](/sos3.png)
+Screenshot of the website #2:
 
+![ScreenShot](/screenshots/sos2.png)
+
+Screenshot of the website #3:
+
+![ScreenShot](/screenshots/sos3.png)
 
 
 
