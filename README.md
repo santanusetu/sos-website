@@ -6,7 +6,7 @@ The website looks similar to this :
 
 Screenshot of the website #1:
 
-![ScreenShot](/screenshots/sos1.png)
+![ScreenShot](/screenshots/sos11.png)
 
 Screenshot of the website #2:
 
