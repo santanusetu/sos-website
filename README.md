@@ -1,8 +1,8 @@
 # sos-website
 
-Website for SOS Corporation
+Website for SOS Corporation 
 
-The website looks similar to this :
+The UI of the website looks similar to this :
 
 Screenshot of the website #1:
 
